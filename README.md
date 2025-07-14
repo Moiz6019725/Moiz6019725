@@ -52,7 +52,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: [moizmastoor@example.com](mailto:moizmastoor@example.com)  
+- 📧 Email: [moizurrehman01@gmail.com](mailto:moizurrehman01@gmail.com)  
 - 🌐 GitHub: [github.com/Moiz6019725](https://github.com/Moiz6019725)
 
 ---
