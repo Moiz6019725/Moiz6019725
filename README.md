@@ -53,7 +53,7 @@
 ### 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Moiz6019725-black?style=flat&logo=github)](https://github.com/Moiz6019725)
-[![Email](https://img.shields.io/badge/Email-moizmastoor@example.com-red?style=flat&logo=gmail)](mailto:moizmastoor@example.com)
+[![Email](https://img.shields.io/badge/Email-moizurrehman01@gmail.com-red?style=flat&logo=gmail)](mailto:moizurrehman@gmail.com)
 
 ---
 
