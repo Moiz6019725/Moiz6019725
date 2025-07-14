@@ -16,7 +16,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+### 🧰 Tech Stack
 
 #### 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -33,7 +33,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat&logo=mongoose)
 
-#### 🔧 Tools & Utilities
+#### 🛠️ Tools & Utilities
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
@@ -41,20 +41,22 @@
 
 ---
 
-### 📌 Current Goals
+### 📊 GitHub Stats
 
-- 🔄 Build and deploy more full-stack applications  
-- 💼 Start contributing to open-source projects  
-- 🎯 Gain professional experience through internships or freelance work  
-- ☁️ Learn cloud technologies and DevOps fundamentals  
-
----
-
-### 📫 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-Moiz6019725-black?style=flat&logo=github)](https://github.com/Moiz6019725)
-[![Email](https://img.shields.io/badge/Email-moizurrehman01@gmail.com-red?style=flat&logo=gmail)](mailto:moizurrehman@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moiz6019725&show_icons=true&theme=tokyonight" alt="Moiz's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moiz6019725&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ---
 
-*“Driven by curiosity. Guided by code.”*
+### 📫 Contact Me
+
+- 📧 Email: [moizmastoor@example.com](mailto:moizmastoor@example.com)  
+- 🌐 GitHub: [github.com/Moiz6019725](https://github.com/Moiz6019725)
+
+---
+
+### ⚡ Fun Fact
+
+> I turn ☕ into code and bugs 🐛 into features. Let’s build something amazing together!
