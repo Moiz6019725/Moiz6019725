@@ -1,22 +1,45 @@
-<h1 align="center">👋 Hello, I'm Your Name</h1>
+<h1 align="center">👋 Hello, I'm Moiz Ur Rehman Mastoor</h1>
 
 <p align="center">
-🚀 Full Stack Developer | 🐍 Python & Django Expert | 🔗 REST API Architect  
+💻 MERN Stack Developer | 🌱 Self-Taught Coder | 🚀 Passionate Tech Explorer  
 </p>
 
 ---
 
-### 🧾 About Me
+### 🧠 About Me
 
-- 🔧 3+ years of freelance experience delivering production-ready applications  
-- 💡 Strong backend skills using Django and Django REST Framework  
-- 🛢️ Skilled in relational (PostgreSQL, MySQL, SQLite) and NoSQL (MongoDB) databases  
-- 🧠 Proficient in React.js, Next.js, Tailwind CSS, and Bootstrap  
-- 🛠️ Committed to writing clean, maintainable, and testable code  
-- 📚 Lifelong learner constantly exploring new tools and technologies  
+- 🧩 I’m a self-driven Full Stack Developer with hands-on experience in the **MERN stack**  
+- 📚 Throughout my educational career, I’ve worked **independently** on real-world projects  
+- 🛠️ I’ve never worked under anyone – all my learning and projects are **self-initiated**  
+- 💡 I enjoy solving problems and turning ideas into functional, modern web apps  
+- 📈 Constantly learning new technologies, tools, and frameworks  
 
 ---
 
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-black?style=flat&logo=github)](https://github.com/YourUsername)
+### 💼 Tech Stack
+
+- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Mongoose  
+- **Others:** Git, GitHub, REST APIs, JWT, Postman  
+
+---
+
+### 📌 Goals
+
+- 🔄 Keep building full-stack apps  
+- ✨ Contribute to open-source  
+- 🎯 Land freelance or collaborative opportunities  
+- 📘 Learn DevOps and cloud deployment  
+
+---
+
+### 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Moiz6019725-black?style=flat&logo=github)](https://github.com/Moiz6019725)
+[![Email](https://img.shields.io/badge/Email-moizmastoor@example.com-red?style=flat&logo=gmail)](mailto:moizmastoor@example.com)
+
+---
+
+*“Code isn’t just a skill, it’s a mindset.”*
+
