@@ -16,12 +16,28 @@
 
 ---
 
-### 💼 Tech Stack
+### ⚙️ Tech Stack
 
-- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, Mongoose  
-- **Others:** Git, GitHub, REST APIs, JWT, Postman  
+#### 💻 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+
+#### 🎨 Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
+
+#### 🛢️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat&logo=mongoose)
+
+#### 🔧 Tools & Utilities
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code)
 
 ---
 
@@ -37,9 +53,8 @@
 ### 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Moiz6019725-black?style=flat&logo=github)](https://github.com/Moiz6019725)
-[![Email](https://img.shields.io/badge/Emailmoizurrehman01@gmail.com-red?style=flat&logo=gmail)](mailto:moizurrehman01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-moizmastoor@example.com-red?style=flat&logo=gmail)](mailto:moizmastoor@example.com)
 
 ---
 
 *“Driven by curiosity. Guided by code.”*
-
