@@ -8,11 +8,11 @@
 
 ### 🧠 About Me
 
-- 🧩 I’m a self-driven Full Stack Developer with hands-on experience in the **MERN stack**  
-- 📚 Throughout my educational career, I’ve worked **independently** on real-world projects  
-- 🛠️ I’ve never worked under anyone – all my learning and projects are **self-initiated**  
-- 💡 I enjoy solving problems and turning ideas into functional, modern web apps  
-- 📈 Constantly learning new technologies, tools, and frameworks  
+- 🎓 I'm a dedicated Full Stack Developer with a strong foundation in the **MERN stack**
+- 🛠️ Gained all my experience through **independent, self-initiated projects** during my academic career  
+- 💡 I enjoy solving real-world problems by building modern and scalable web applications  
+- 📚 Lifelong learner always exploring the latest tools, libraries, and best practices  
+- 🤝 Open to freelance, collaboration, and learning opportunities  
 
 ---
 
@@ -25,21 +25,21 @@
 
 ---
 
-### 📌 Goals
+### 📌 Current Goals
 
-- 🔄 Keep building full-stack apps  
-- ✨ Contribute to open-source  
-- 🎯 Land freelance or collaborative opportunities  
-- 📘 Learn DevOps and cloud deployment  
+- 🔄 Build and deploy more full-stack applications  
+- 💼 Start contributing to open-source projects  
+- 🎯 Gain professional experience through internships or freelance work  
+- ☁️ Learn cloud technologies and DevOps fundamentals  
 
 ---
 
 ### 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Moiz6019725-black?style=flat&logo=github)](https://github.com/Moiz6019725)
-[![Email](https://img.shields.io/badge/Email-moizurrehman01@gmail.com-red?style=flat&logo=gmail)](mailto:moizurrehman01@gmail.com)
+[![Email](https://img.shields.io/badge/Emailmoizurrehman01@gmail.com-red?style=flat&logo=gmail)](mailto:moizurrehman01@gmail.com)
 
 ---
 
-*“Code isn’t just a skill, it’s a mindset.”*
+*“Driven by curiosity. Guided by code.”*
 
